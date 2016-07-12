@@ -4,5 +4,5 @@
   - [Slides](https://docs.google.com/presentation/d/1jtz2TGePHGLaerIOpIk3F1jfkcGxxDzfNsKTyBYsfBI/edit?usp=sharing)
 - 11 July 2016: Privacy Book: Ch 1-2](http://www.meetup.com/Toronto-Differential-Privacy-Meetup/events/231869997/)
   - Chapter 1
-    - TODO: details of netflix/imdb work
+    - [details of netflix/imdb work](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)
   - Chapter 2
